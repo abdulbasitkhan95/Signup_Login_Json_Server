@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "Username": "basitkhan",
+      "Email": "abdulbasit@gmail.com",
+      "Password": "admin",
+      "ConfirmPassword": "admin",
+      "FirstName": "Abdul",
+      "LastName": "Basit",
+      "CountryId": "Pakistan",
+      "CityId": "Karachi",
+      "ProfileImage": " ",
+      "CallBackUrl": " ",
+      "DOB": "24-07-1995"
+    },
+    {
+      "id": 2,
+      "Username": "basit123",
+      "Email": "basit@gmail.com",
+      "Password": "admin",
+      "ConfirmPassword": "admin",
+      "FirstName": "Abdul",
+      "LastName": "Basit",
+      "CountryId": "Pakistan",
+      "CityId": "Karachi",
+      "ProfileImage": " ",
+      "CallBackUrl": " ",
+      "DOB": "24-07-1995"
+    },
+    {
+      "Email": "asd@gmail.com",
+      "Password": "13232432",
+      "ConfirmPassword": "13232432",
+      "Username": "testuser",
+      "id": 3
+    },
+    {
+      "Email": "abc@gmail.com",
+      "Password": "1234567",
+      "ConfirmPassword": "1234567",
+      "Username": "abc",
+      "id": 4
+    },
+    {
+      "Email": "abd@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "abc123",
+      "id": 5
+    },
+    {
+      "Email": "abc111@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "abc",
+      "id": 6
+    },
+    {
+      "Email": "basitkhan123@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "basitkhan123",
+      "id": 7
+    },
+    {
+      "Email": "abcsadas@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "abcsadas",
+      "id": 8
+    },
+    {
+      "Email": "fa21-mscs-0027@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "fa21-mscs-0027",
+      "id": 9
+    },
+    {
+      "Email": "fa21-mscs-0028@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "fa21-mscs-0028",
+      "id": 10
+    },
+    {
+      "Email": "fa21-mscs-0029@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "fa21-mscs-0029",
+      "id": 11
+    },
+    {
+      "Email": "abcaa@gmail.com",
+      "Password": "123456789",
+      "ConfirmPassword": "123456789",
+      "Username": "abcaa",
+      "id": 12
+    },
+    {
+      "Email": "basit444@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456",
+      "Username": "basit444",
+      "id": 13
+    }
+  ]
+}
