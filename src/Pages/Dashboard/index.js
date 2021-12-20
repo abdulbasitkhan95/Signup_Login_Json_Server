@@ -16,7 +16,7 @@ function Dashboard() {
         }
         else {
             if(getUserData === "") {
-                setUserData(userData[0].Username)
+                setUserData(userData[0].username)
             }
         }
     })
